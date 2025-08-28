@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    background-color: rgb(85, 197, 199);
+    border: 2px solid red;
+    border-radius: 20px;
+}
+.text1{
+    color: red;
+}
+
+h2{
+    color: green;
+}
+.text2{
+    text-align: center;
+    background-color: yellow;
+}
+div{
+    text-align: center;
+}
+.text3{
+    text-align: center;
+    background-color: black;
+    width: 1200px;
+    height: 400px;
+    border-radius: 10px;
+}
+input{
+    width: 1000px;
+    height: 50px;
+}
+button{
+    background-color: rgb(99, 136, 177);
+}
+.tex1{
+    background-color: green;
+}
+table{
+    color: white;
+    text-align: center;
+}
+
